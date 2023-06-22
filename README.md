@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on finishing my first BootCamp with HyperionDev, Software Engineering.
-- 🌱 I’m currently learning Python as main language :) 
+🔭 I’m currently working on finishing my first BootCamp with HyperionDev, Software Engineering.
+🌱 I’m currently learning Python as main language :) 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Python, any help will be exellent help.
-- 💬 Ask me about ...
-- 📫 How to reach me: follow the link on https://www.linkedin.com/in/vjaceslavs-smonovs-b0517a222/
-- 😄 Pronouns: savaon lol :D 
-- ⚡ Fun fact: I'm 36 years old :D 
+🤔 I’m looking for help with Python, any help will be exellent help.
+- 💬 Ask me about
+📫 How to reach me: follow the link on https://www.linkedin.com/in/vjaceslavs-smonovs-b0517a222/
+😄 Pronouns: savaon lol :D 
+⚡ Fun fact: I'm 36 years old :D 
 -->
